@@ -1,6 +1,6 @@
 Package: TMTI
 Type: Package
-Title: 'Too Many, Too Improbable' (TMTI) Test Procedures
+Title: Too Many, Too Improbable (TMTI) Test Procedures
 Version: 1.0.3
 Author: Phillip B. Mogensen [aut, cre]
 Authors@R: person(given = c("Phillip", "B."),
